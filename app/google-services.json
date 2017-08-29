@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698692688965",
+    "firebase_url": "https://hygiene-36a79.firebaseio.com",
+    "project_id": "hygiene-36a79",
+    "storage_bucket": "hygiene-36a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698692688965:android:e803d934beb055bc",
+        "android_client_info": {
+          "package_name": "com.chatchai.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698692688965-gbobrde2demtrk647jkckiktpkm0mj92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatchai.project",
+            "certificate_hash": "e011e7f81a66213a5b48457a19121373ec4192e3"
+          }
+        },
+        {
+          "client_id": "698692688965-rsf7a5n1ih3ds4qacsvqp2140s8sb1up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcYuVcQ6jNZdtPlSBjNSuJiPGIJZ0_B8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698692688965-rsf7a5n1ih3ds4qacsvqp2140s8sb1up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
